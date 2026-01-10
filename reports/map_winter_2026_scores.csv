@@ -1,0 +1,13 @@
+grade,subject,mean_rit,median_percentile
+3,Math,220,75
+3,Reading,226,64
+4,Math,203,75
+4,Reading,203,61
+5,Math,204,74
+5,Reading,207,37
+6,Math,188,74
+6,Reading,202,74
+7,Math,229,64
+7,Reading,186,40
+8,Math,196,67
+8,Reading,188,58
